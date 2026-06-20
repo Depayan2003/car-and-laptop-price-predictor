@@ -180,7 +180,7 @@ Dense(1)
 ---
 
 ## 📺 Live Demo
-* https://car-and-laptop-price-predictor.streamlit.app *
+* https://car-and-laptop-price-predictor.streamlit.app
 
 ---
 
