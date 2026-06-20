@@ -179,6 +179,11 @@ Dense(1)
 
 ---
 
+## 📺 Live Demo
+* https://car-and-laptop-price-predictor.streamlit.app *
+
+---
+
 ## ⭐ Support
 
 If you found this project useful, consider giving it a star on GitHub.
