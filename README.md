@@ -9,6 +9,11 @@ The application combines multiple trained machine learning models into a single 
 
 ---
 
+## 📺 Live Demo
+🚀 **Try the application:** https://car-and-laptop-price-predictor.streamlit.app
+
+---
+
 ## 📌 Features
 
 ### 💻 Laptop Price Prediction
@@ -176,13 +181,6 @@ Dense(1)
 
 * GitHub: https://github.com/Depayan2003
 * LinkedIn: https://linkedin.com/in/depayan-debnath
-
----
-
-## 📺 Live Demo
-* https://car-and-laptop-price-predictor.streamlit.app
-
----
 
 ## ⭐ Support
 
